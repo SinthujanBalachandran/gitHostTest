@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gitHubTest/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/gitHubTest/static/js/main.5d84420b.chunk.js",
+    "main.js.map": "/gitHubTest/static/js/main.5d84420b.chunk.js.map",
+    "runtime-main.js": "/gitHubTest/static/js/runtime-main.571b41f8.js",
+    "runtime-main.js.map": "/gitHubTest/static/js/runtime-main.571b41f8.js.map",
+    "static/css/2.b7f67935.chunk.css": "/gitHubTest/static/css/2.b7f67935.chunk.css",
+    "static/js/2.32a68fd0.chunk.js": "/gitHubTest/static/js/2.32a68fd0.chunk.js",
+    "static/js/2.32a68fd0.chunk.js.map": "/gitHubTest/static/js/2.32a68fd0.chunk.js.map",
+    "index.html": "/gitHubTest/index.html",
+    "precache-manifest.2a71d7c0a0d17efd59e2afbb6528cc08.js": "/gitHubTest/precache-manifest.2a71d7c0a0d17efd59e2afbb6528cc08.js",
+    "service-worker.js": "/gitHubTest/service-worker.js",
+    "static/css/2.b7f67935.chunk.css.map": "/gitHubTest/static/css/2.b7f67935.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/gitHubTest/static/css/main.5e4e9510.chunk.css.map",
+    "static/js/2.32a68fd0.chunk.js.LICENSE": "/gitHubTest/static/js/2.32a68fd0.chunk.js.LICENSE",
+    "static/media/index.css": "/gitHubTest/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571b41f8.js",
+    "static/css/2.b7f67935.chunk.css",
+    "static/js/2.32a68fd0.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.5d84420b.chunk.js"
+  ]
+}
